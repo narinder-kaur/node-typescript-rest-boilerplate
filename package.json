@@ -33,7 +33,7 @@
     "@types/helmet": "0.0.43",
     "@types/jsonwebtoken": "^8.3.2",
     "@types/passport-jwt": "^3.0.1",
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "bcrypt-nodejs": "^0.0.3",
     "bcryptjs": "^2.4.3",
     "bluebird": "^3.5.5",
